@@ -79,8 +79,8 @@ A curated list of awesome computational design resources, tools, platforms and i
 
 - [Platforms](#platforms)
 
-  - [Conveyor](#https://apps.provingground.io/) - a geometry and data management plugin for Rhino and Revit.
-  - [Hypar] (#)
+  - [Conveyor](https://apps.provingground.io/) - a geometry and data management plugin for Rhino and Revit.
+  - [Hypar] (https://hypar.io/)
   - [Konstru](https://konstru.com/) - An interoperability solution.
   - [Speckle.Systems](https://speckle.systems/) - An open source data platform for aec. 
 
