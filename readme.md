@@ -36,33 +36,33 @@ A curated list of awesome computational design resources, tools, platforms and i
 
 - [APIs](#apis)
 
-  - [Elements](#https://github.com/hypar-io/Elements) - a cross-platform library for creating building elements.
+  - [Elements](https://github.com/hypar-io/Elements) - a cross-platform library for creating building elements.
 
-  - [SkyCiv](#https://skyciv.com/api-info/) - various cloud based, API enabled structural analysis tools.
+  - [SkyCiv](https://skyciv.com/api-info/) - various cloud based, API enabled structural analysis tools.
 
 - [Data Management](#platforms)
   
-  - [bimobject](#https://www.bimobject.com/) - a BIM content platform.
+  - [bimobject](https://www.bimobject.com/) - a BIM content platform.
 
-  - [xbim](#https://www.xbim.net) - BIM data sharing.
+  - [xbim](https://www.xbim.net) - BIM data sharing.
 
 - [Education](#education)
   - 
 - [Generative](#generative)
-  - [Hypar](#https://hypar.io/)
+  - [Hypar](https://hypar.io/)
 
 - [Inspiration](#inspiration)
 
-  - [Parametricdesign.net](#http://www.parametricdesign.net/) - a blog about parametric design adn generative architecture.
+  - [Parametricdesign.net](http://www.parametricdesign.net/) - a blog about parametric design adn generative architecture.
 
-  - [iasefmdrian](#https://iasefmdrian.wordpress.com/) - a blog about parametric design, fractals and nature.
+  - [iasefmdrian](https://iasefmdrian.wordpress.com/) - a blog about parametric design, fractals and nature.
 
 
 - [Libraries](#libraries)
   
-  - [Compas](#https://compas-dev.github.io/) - an open source framework which provides a geometry processing library, robot fundamental and more.
+  - [Compas](https://compas-dev.github.io/) - an open source framework which provides a geometry processing library, robot fundamental and more.
 
-  - [ParaPy](#https://www.parapy.nl/) - a Python library for building automation design.
+  - [ParaPy](https://www.parapy.nl/) - a Python library for building automation design.
 
   - [xbim toolkit](https://docs.xbim.net/) - an open source BIM toolkit that supports IFC
 
@@ -81,6 +81,6 @@ A curated list of awesome computational design resources, tools, platforms and i
 
   - [Conveyor](#https://apps.provingground.io/) - a geometry and data management plugin for Rhino and Revit.
   - [Hypar] (#)
-  - [Konstru](#https://konstru.com/) - An interoperability solution.
+  - [Konstru](https://konstru.com/) - An interoperability solution.
   - [Speckle.Systems](https://speckle.systems/) - An open source data platform for aec. 
 
